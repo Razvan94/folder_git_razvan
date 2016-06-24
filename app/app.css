@@ -59,7 +59,7 @@
 
 .butoane{
   background-color: cyan;
-  height:290px;
+  height:300px;
 
 }
 
@@ -95,7 +95,7 @@ height: 33%;
 
 .container{
 width:1000px;
-margin-left: 15%;
+margin-left: 17%;
 
 }
 .butoane h1{
@@ -118,7 +118,7 @@ background-color: #153636
 .container2{
 padding-top: 100px;
 width:1200px;
-margin-left: 10%;
+margin-left: 12%;
 
 }
 .col{
@@ -137,5 +137,18 @@ margin-left: 10%;
 .col img:hover{
     transform:scale(1.1);
     transition: 1.5s;
-    transform: rotate(360deg);
+
+    opacity: 0.5;
 }
+#title1{
+  color:white;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+  margin: 0px;
+}
+#title2{
+  color:white;
+  margin-bottom: 0;
+  padding-top:3px;
+  text-align: center;
