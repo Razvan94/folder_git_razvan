@@ -17,7 +17,13 @@
 
 
 }
+.nav h1{
 
+float:left;
+color: white;
+margin:0;
+
+}
 
 .nav{
   text-align: right;
@@ -110,7 +116,7 @@ margin-left: 17%;
   text-align: center;
 }
 #footer{
-height:1000px;
+height:1200px;
 background-color: #153636
 
 
@@ -152,3 +158,27 @@ margin-left: 12%;
   margin-bottom: 0;
   padding-top:3px;
   text-align: center;
+}
+
+
+.copyright{
+text-align: center;
+margin-top:25%;
+margin-bottom: 0;
+font-size: 30px;
+
+}
+.copyright i{
+color:black;
+
+}
+
+.copyright i:hover{
+
+  transition: 1.5s;
+  
+  transform: rotate(360deg) scale(1.2);
+
+
+
+}

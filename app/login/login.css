@@ -1,0 +1,94 @@
+.fundal2{
+  background-color: black;
+  height:60px;
+  margin: 0;
+  width: 100%;
+  position: fixed;
+
+
+
+}
+.nav{
+  text-align: right;
+}
+.nav a{
+        font-family:monospace;
+        text-decoration: none;
+        color: white;
+        text-shadow: 10px;
+        font-size: 15px;
+        font-family: monospace;
+
+
+}
+.nav h1{
+
+  float:left;
+  color: white;
+  margin:0;
+  font-family: cursive;
+
+}
+.fundal3{
+height:600px;
+background-color:rgb(69, 162, 233);
+color:white;
+margin:0;
+
+}
+body{ background-color: white;
+margin:0;
+
+}
+#legend{
+margin:0;
+font-size:30px;
+font-family: monospace;
+}
+
+.form{
+      width:50%;
+      margin:auto;
+      padding-top: 140px;
+}
+.form input[type="text"],.form input[type="password"]{
+width: 650px;
+height:30px;
+background-color: inherit;
+border: 2px solid white;
+margin-top: 15px;
+margin-bottom: 15px;
+
+
+}
+.form input[type="checkbox"]{
+  width: 15px;
+  height:15px;
+  vertical-align: bottom;
+  margin: 0;
+
+
+
+}
+.form input[type="submit"]{
+  width: 100px;
+  height:40px;
+  color:white;
+  font-size:20px;
+  font-family:cursive;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: inherit;
+  border: 2px solid white;
+}
+
+
+.form a{
+text-decoration: none;
+color:white;
+font-family: sans-serif;
+text-size:18px;
+
+
+
+}
