@@ -8,27 +8,7 @@
 
 
 }
-.nav{
-  text-align: right;
-}
-.nav a{
-        font-family:monospace;
-        text-decoration: none;
-        color: white;
-        text-shadow: 10px;
-        font-size: 15px;
-        font-family: monospace;
 
-
-}
-.nav h1{
-
-  float:left;
-  color: white;
-  margin:0;
-  font-family: cursive;
-
-}
 .fundal3{
 height:600px;
 background-color:rgb(69, 162, 233);
