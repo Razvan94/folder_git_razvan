@@ -63,12 +63,13 @@ margin-bottom: 15px;
 }
 
 
+.form input[type="submit"]:hover {
+  background-color: grey;
+
+}
 .form a{
-text-decoration: none;
 color:white;
-font-family: sans-serif;
-text-size:18px;
-
-
+font-size: 20px;
+text-decoration: none;
 
 }
