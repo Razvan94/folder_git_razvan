@@ -1,0 +1,48 @@
+.cop{
+text-align: center;
+margin-top:25%;
+margin-bottom: 0;
+font-size: 20px;
+color:black
+}
+.cop i{
+color:black;
+}
+.cop i:hover{
+transition: 1.5s;
+transform: rotate(360deg) scale(1.2);
+}
+#top{
+  background-color: #F3F3F3;
+}
+#title1{
+  text-align: center;
+  margin-top: 63px;
+}
+#title2{
+  text-align: center;
+}
+.subtextul{
+  margin-top: 10px;
+}
+.btn-group .portocaliu{
+  background-color: darkorange;
+}
+.sectiunejos{
+  margin-top: 60px;
+}
+.sectiunejos a{
+
+  color:#FC5454;
+}
+.sectiunejos .nav-tabs .active {
+border-top: 3px solid #FC5454;
+border-radius: 8px;
+
+}
+#home,#menu1,#menu2{
+  margin-top: 10px;
+}
+#menu1 tbody{
+  background-color: #FC5454;
+}
