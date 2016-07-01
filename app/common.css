@@ -1,0 +1,22 @@
+/*Copyright style*/
+.cop{
+text-align: center;
+margin-top:25%;
+
+color:black
+}
+.cop i{
+color:black;
+
+}
+.cop i:hover{
+  transition: 1.5s;
+  transform: rotate(360deg) scale(1.2);
+}
+#title1{
+  text-align: center;
+  margin-top: 63px;
+}
+.btn-group .portocaliu{
+  background-color: #FF521C;
+}

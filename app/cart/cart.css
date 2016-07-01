@@ -1,0 +1,26 @@
+.container h2{
+  margin-top:70px;
+}
+.main .portocaliu{
+  float: right;
+  color:white;
+  background-color:#FF521C;
+}
+.col-sm-12 .table td{
+  vertical-align: middle;
+}
+.col-sm-12 .table tbody{
+  border-bottom: 1px solid lightgrey;
+}
+#pret{
+  color:#FF521C;
+  font-size: 35px;
+}
+.city{
+  padding-left: 0px;
+  margin-top: 25px;
+}
+.row{
+  margin-top:15px;
+  margin-bottom: 10px;
+}

@@ -4,20 +4,11 @@
   margin: 0;
   width: 100%;
   position: fixed;
-
-
-
 }
-
 .fundal3{
-background-color:rgb(69, 162, 233);
+background-color:#4ED7D7;
 color:white;
 margin:0;
-
-}
-body{ background-color: white;
-margin:0;
-
 }
 #legend{
 margin:0;
@@ -31,10 +22,7 @@ background-color: inherit;
 border: 2px solid white;
 margin-top: 15px;
 margin-bottom: 15px;
-
-
 }
-
 .form{
       width:50%;
       margin:auto;
@@ -44,13 +32,12 @@ margin-bottom: 15px;
   width: 134px;
   height:40px;
   color:white;
-
-  margin-top: 0px;
   background-color: inherit;
+  border-radius: 2px;
   border: 2px solid white;
 }
-
 .form input[type="submit"]:hover {
-  background-color: grey;
-
+  background-color: white;
+  color:grey;
+  border-color: grey;
 }

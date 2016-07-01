@@ -4,28 +4,17 @@
   margin: 0;
   width: 100%;
   position: fixed;
-
-
-
 }
-
 .fundal3{
-height:600px;
-background-color:rgb(69, 162, 233);
+background-color:#4ED7D7;
 color:white;
 margin:0;
-
-}
-body{ background-color: white;
-margin:0;
-
 }
 #legend{
 margin:0;
 font-size:30px;
 font-family: monospace;
 }
-
 .form{
       width:50%;
       margin:auto;
@@ -38,38 +27,32 @@ background-color: inherit;
 border: 2px solid white;
 margin-top: 15px;
 margin-bottom: 15px;
-
-
 }
 .form input[type="checkbox"]{
   width: 15px;
   height:15px;
   vertical-align: bottom;
   margin: 0;
-
-
-
 }
 .form input[type="submit"]{
-  width: 100px;
-  height:40px;
+  width: 80px;
+  height:30px;
   color:white;
-  font-size:20px;
-  font-family:cursive;
-  margin-top: 20px;
-  margin-bottom: 10px;
   background-color: inherit;
   border: 2px solid white;
+  border-radius: 2px;
 }
-
-
 .form input[type="submit"]:hover {
-  background-color: grey;
-
+  background-color: white;
+  color:grey;
+  border-color: grey;
 }
 .form a{
 color:white;
 font-size: 20px;
 text-decoration: none;
-
+}
+.form a:hover{
+text-decoration: none;
+color:grey;
 }

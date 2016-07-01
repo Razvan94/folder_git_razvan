@@ -1,4 +1,4 @@
-#fundal{
+.landing-first-section{
   background: url("assets/images/bg2.jpg");
   height: 500px;
   color: white;
@@ -6,29 +6,11 @@
   background-size:cover;
   text-align: center;
 }
-
-.group:after{
-
-  clear: both;
-  content: " ";
-  display:block;
-
-
-
-
-}
 .containerul{
     width: 800px;
     margin-left: 23%;
-
-
 }
-
-
-
-
-
-#buton1{
+.landing-first-section a{
   margin-top: 120px;
   text-decoration: none;
   font-size: 25px;
@@ -39,24 +21,19 @@
   width: 150px;
   font-family: sans-serif;
   color:white;
-
-
 }
-
-#buton1:hover{
+.landing-first-section a:hover{
   background: rgb(150, 150, 150);
+  text-decoration: none;
+  color:white;
 }
 #iconita{
   size:100px;
 }
-
 .butoane{
-  background-color: cyan;
+  background-color: #4ED7D7;
   height:300px;
-
 }
-
-
 .image-wrapper{
   position: relative;
   margin:auto;
@@ -65,7 +42,6 @@
   padding: 15px;
   border: 2px solid;
   border-radius: 50%;
-
 }
 .col-inline{
 padding-top: 100px;
@@ -83,10 +59,7 @@ height: 33%;
   margin-left: -30px;
   margin-top: -30px;
   position: absolute;
-
 }
-
-
 .butoane h1{
   text-align: center;
   font-size: 30px;
@@ -101,13 +74,7 @@ height: 33%;
 #footer{
 height:1200px;
 background-color: #153636
-
-
 }
-
-
-
-
 #title1{
   color:white;
   text-align: center;
@@ -121,48 +88,18 @@ background-color: #153636
   padding-top:3px;
   text-align: center;
 }
-
-
-.cop{
-text-align: center;
-margin-top:25%;
-margin-bottom: 0;
-font-size: 20px;
-color:black
-}
-.cop i{
-color:black;
-
-}
-
-.cop i:hover{
-
-  transition: 1.5s;
-
-  transform: rotate(360deg) scale(1.2);
-}
-
-
-
-
 #banner-text{
 padding-top: 100px;
 }
-
 #banner-text h1{
-
   padding-bottom: 20px;
 }
-
 .col-image img{
 width: 100%;
 margin-bottom: 30px;
-
-
 }
 .row{
   margin-top:60px;
-
 }
 .col-image img:hover{
     transform:scale(1.1);
